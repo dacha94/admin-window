@@ -1,0 +1,2 @@
+# admin-window
+Goods management
